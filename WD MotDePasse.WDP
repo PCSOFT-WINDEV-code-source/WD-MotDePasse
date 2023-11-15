@@ -1,0 +1,171 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD MotDePasse
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD MotDePasse
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD MotDePasse
+    internal_properties : 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
+    configuration_id : 3552399027412765810
+    type : 1
+    generation_name : WD MotDePasse.exe
+    version :
+     major_version : 21
+     generation_version : 1
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\WDMotDePasse.ico
+    language : 1
+ elements :
+  identifier : 0x4acda6c400113247
+  elements :
+   -
+     name : FEN_SaisieMotDePasseGeneral
+     identifier : 0x418fd4850001d06e
+     internal_properties : CAAAAAgAAAD5VSFlQj93eMdc7dFaofbvObr0JJQHyxGhlmYCVstD5WuRKqhtU/tfoJoE/IR8BPTcZA==
+     physical_name : .\FEN_SaisieMotDePasseGeneral.wdw
+     type : 2
+   -
+     name : FEN_Edite_MotDePasse
+     identifier : 0x418fe81c00025368
+     internal_properties : CAAAAAgAAAB60KLmxYKqtbIHRKjBCqNcBhV9ZVdZsT2KeIRslXwQ0DDy78NGumTG20W/Ofn3g3Vf5w==
+     physical_name : .\FEN_Edite_MotDePasse.wdw
+     type : 2
+   -
+     name : FEN_Generateur
+     identifier : 0x466ae48b01c60d2e
+     internal_properties : CAAAAAgAAAAJBXEVks9nCNGtyXCDoxP6UeyIuI7J8VtNT9XTFRx2ql7yXj+ERWZucqoU7LQs1MQMFA==
+     physical_name : .\FEN_Generateur.wdw
+     type : 2
+   -
+     name : FEN_Principale
+     identifier : 0x418fd2d100002816
+     internal_properties : CAAAAAgAAAA+JBYKuebO4e4zQLTNCJtcOq05qbHkadE2096r0Zr69sII8dFKvmDCx3FrVd0T7+ErKw==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : FEN_Options
+     identifier : 0x418ff7c60003854d
+     internal_properties : CAAAAAgAAAACeHquHUri/VrfbFDZdTsUrjOd3f2Y4X+pBNScDuOpb1WZJC7u0nzeIx2HcTGvS70HDw==
+     physical_name : .\FEN_Options.wdw
+     type : 2
+   -
+     name : COL_Generateur
+     identifier : 0x47c04c3d003b98e8
+     internal_properties : CAAAAAgAAAAdeXUplsNrdMbZZX74Dkh6C3qCCqT3OXShLoEnrXSmQopqnHy4QO0Hs5YA+Lgo0MAICA==
+     physical_name : .\COL_Generateur.wdg
+     type : 7
+   -
+     name : COL_MotDePasse
+     identifier : 0x47c04c3e003d99d2
+     internal_properties : CAAAAAgAAACRbcnd6pefUBJV4fN0JK/GqcRwcMo5xhVSyhgPcZR+UuYa+p+TtWmDP+LcJOzknAz0fA==
+     physical_name : .\COL_MotDePasse.wdg
+     type : 7
+   -
+     name : REQ_VisuMotDePasse
+     identifier : 0x466aa59d0041396b
+     internal_properties : CAAAAAgAAABAPrjkw7jwKzbOqzfNIThMNLXDKzsYVn2KNPcyejvRJ9kJBiMd28KPU8s1gwP9hXtFzQ==
+     physical_name : .\REQ_VisuMotDePasse.WDR
+     type : 5
+  other_elements :
+   -
+     physical_name : .\description.rtf
+   -
+     physical_name : .\Description.gif
+   -
+     physical_name : .\WDMotDePasse.ico
+   -
+     physical_name : .\dict
+  analysis : .\WM Mot De Passe.ana\WM Mot De Passe.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepDonneesUtilisateur>
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAACCg3rjDZBA2l12wRA86UT+lDQ2rSM0LQrgupkaZctrTRVY0bYO4WJJmiYJP5r/Bjz8JSeRVT6bSBXNBQsuwOlRXS1Mmkh5A223GDrgegYkULh/1hTX73OC
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      // Demande le mot de passe général à l'utilisateur 
+      si ouvre(FEN_SaisieMotDePasseGeneral) = Faux ALORS
+      	FinProgramme()
+      FIN
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     code : |1-
+      
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD MotDePasse
+     identifier : 0x4acda6c400173311
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : MDPTOUJOURS
+     index : 0
+   -
+     text :
+      fr-FR : MDPHOTKEY
+     index : 1
+   -
+     text :
+      fr-FR : EFFACEPP
+     index : 2
+   -
+     text :
+      fr-FR : CARACETENDU
+     index : 3
+   -
+     text :
+      fr-FR : LGRGENERE
+     index : 4
+   -
+     text :
+      fr-FR : /NOPRESENT
+     index : 5
+   -
+     text :
+      fr-FR : WD MotDePasse
+     index : 6
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
